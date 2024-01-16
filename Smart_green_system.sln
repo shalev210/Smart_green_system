@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Smart_green_system", "Smart_green_system.csproj", "{AC1A33A6-D90D-4218-AB4B-433B0E6A2189}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC1A33A6-D90D-4218-AB4B-433B0E6A2189}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC1A33A6-D90D-4218-AB4B-433B0E6A2189}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC1A33A6-D90D-4218-AB4B-433B0E6A2189}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC1A33A6-D90D-4218-AB4B-433B0E6A2189}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {924AABED-0187-4619-BA06-96C32E3C3B88}
+	EndGlobalSection
+EndGlobal
